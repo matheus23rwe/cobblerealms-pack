@@ -1,0 +1,19 @@
+{
+    "schema":  1,
+    "packVersion":  1,
+    "minecraft":  "1.21.1",
+    "loader":  {
+                   "type":  "fabric",
+                   "version":  "0.20.1"
+               },
+    "zip":  {
+                "url":  "https://github.com/matheus23rwe/cobblerealms-pack/releases/download/v1/cobblerealms-pack-v1.zip",
+                "sha1":  "30a0809589af1c8ac9ab61706fff61f4ccc938f2",
+                "size":  558736382
+            },
+    "server":  {
+                   "name":  "Cobblerealms",
+                   "ip":  "cobblerealms.minecraft.how",
+                   "port":  25565
+               }
+}
